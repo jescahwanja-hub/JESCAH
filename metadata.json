@@ -1,0 +1,5 @@
+{
+  "name": "ContentCraft AI",
+  "description": "An AI-powered application that takes a URL from an article or video and generates three distinct, ready-to-post summaries tailored for LinkedIn, Twitter, and Reddit.",
+  "requestFramePermissions": []
+}
